@@ -217,8 +217,9 @@ const App: React.FC = () => {
             <span className="gold-gradient">del Lujo</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto mb-10 font-light leading-relaxed">
-            La escuela de negocios del Lujo líder en Iberoamérica. Desde 2013 formamos a los
-            profesionales y transformamos las marcas que definen el lujo en Latinoamérica.
+            Desde 2013, la escuela de negocios líder en Iberoamérica en formación académica y
+            empresarial sobre el negocio del lujo. Del aula universitaria a la empresa: formamos
+            a los profesionales y transformamos las marcas del lujo.
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center">
             <a href="#formacion" className="bg-gold text-black px-10 py-4 rounded-sm font-semibold tracking-widest uppercase text-sm hover:scale-105 transition-transform">
